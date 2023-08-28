@@ -10,7 +10,7 @@ applications are included in addition to the functions released in XPG v1.0.0.</
 <h3>Library routines newly added in this version:</h3>
         <p>
         <ol>
-        <li> Single Precision - all vector API variants from categories Math, Complex and Vector></li>
+        <li> Single Precision - all vector API variants from categories Math, Complex and Vector</li>
         <li>Double Precision  - all vector API variants from categories Math and Complex</li>
         </ol>
         </p>
