@@ -4,14 +4,14 @@
 
 <h1> Version: v1.1.0 </h1>
 <p> 
-<ol><li>This is an Early access of NatureDSP library for the floating point KQ8 DSP. In this revision new floating point functions for general signal processing 
-applications are included in addition to the functions released in XPG v1.0.0.</li>
-</ol></p> 
+This is an Early access of NatureDSP library for the floating point KQ8 DSP. In this revision new floating point functions for general signal processing 
+applications are included in addition to the functions released in XPG v1.0.0.
+</p> 
 <h3>Library routines newly added in this version:</h3>
         <p>
         <ol>
-        <li> Single Precision - all vector API variants from categories Math, Complex and Vector</li>
-        <li>Double Precision  - all vector API variants from categories Math and Complex</li>
+        <li> Single Precision - Vector API variants from categories Math, Complex and Vector</li>
+        <li> Double Precision  - Vector API variants from categories Math and Complex</li>
         </ol>
         </p>
  <h3> Details:</h3>
@@ -23,7 +23,7 @@ applications are included in addition to the functions released in XPG v1.0.0.</
 <h3> Known issues:</h3>
      <p>
      <ol>
-    <li> None</li>
+    <li> None based on the sanity testing. </li>
      </ol>
      </p>
 
